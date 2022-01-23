@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset='utf-8'>
+	<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+	<title>The Simpsons</title>
+	<meta name='viewport' content='width=device-width, initial-scale=1'>
+	<link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+	<link rel="shortcut icon" href="simpsons.ico" type="image/x-icon">
+	<script src='main.js'></script>
+</head>
+
+<body>
+	<div class="header"> 
+        <img class="header-img" src="1.png">
+		<a href="index.html"><img class="header-logo" src="logo.png"></a>
+		<div class="menu"> 
+            <a href="#" class="menu-about">About</a> 
+            <a href="#" class="menu-characters">Characters</a> 
+            <a href="#" class="menu-episodes">Episodes</a> 
+            <a href="#" class="menu-wiki">Wiki</a> 
+        </div>
+		<h1>Season 33</h1>
+		<p> Homer. Marge. Bart. Lisa. Maggie.
+			<br> They’re unique, they’re
+			<br> extaordinary, and they’re yellow.
+			<br> Say hello to the Simpsons </p>
+		<button name="button" class="header-button1"><a class="a">Watch now</a></button>
+		<button name="button" class="header-button2"><a class="a">Trailer</a></button> <img class="header-img1" src="2.png">
+		<a href="https://www.foxtv.ru/"><img class="header-fox" src="fox.png"></a>
+		<a href="https://disney.ru/"><img class="header-disney" src="disney.png"></a>
+		<a href="https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fwww.google.com%2F"><img class="header-hulu" src="hulu.png"></a>
+		<h2 class="body-1">New episodes</h2>
+		<h2 class="body-2">Previous seasons</h2>
+		<button name="button" class="body-button1"><a class="a">See all</a></button>
+		<button name="button" class="body-button2"><a class="a">See all</a></button>
+		<div class="new-episodes"> 
+            <img class="body-img1" src="3.png"> 
+            <img class="body-img2" src="4.png"> 
+            <img class="body-img3" src="5.png"> 
+        </div>
+		<div class="name-episodes">
+			<h4 class="name-1">S33 E1 Star of the Backstage</h4> <a class="name-1">
+                    A musical comes to life in Springfield <br>
+                    Marge stages a revival of her<br>
+                    beloved high shool sh...</a>
+			<h5 class="name-1">Aired 9-27-21  TV-PG DLV</h5>
+			<h4 class="name-2">S33 E2 Bart’s in Jail</h4> <a class="name-2">
+                    When Gampa fails victim to a phone <br>
+                    scammer, the Simpsons set out to <br>
+                    get his money back.</a>
+			<h5 class="name-2">Aired 10-4-21  TV-PG DLV</h5>
+			<h4 class="name-3">S33 E3 Treehouse of Horror XXXII</h4> <a class="name-3">
+                    Bong Joom-ho’s “Parasite,” Bambi’s <br>
+                    revenge ang much, much more are <br>
+                    featured.</a>
+			<h5 class="name-3">Aired 10-11-21  TV-PG DLV</h5> </div>
+		<div class="previous-seasons"> 
+            <img class="body-img4" src="6.png"> 
+            <img class="body-img5" src="7.png"> 
+            <img class="body-img6" src="8.png"> 
+            <img class="body-img7" src="9.png"> 
+            <img class="body-img8" src="10.png"> 
+        </div>
+		<div class="name-seasons">
+			<h4 class="seasons-1">Season 1</h4>
+			<h5 class="year-1">2000-2001</h5>
+			<h4 class="seasons-2">Season 2</h4>
+			<h5 class="year-2">2002-2003</h5>
+			<h4 class="seasons-3">Season 3</h4>
+			<h5 class="year-3">2004-2005</h5>
+			<h4 class="seasons-4">Season 4</h4>
+			<h5 class="year-4">2006-2007</h5>
+			<h4 class="seasons-5">Season 5</h4>
+			<h5 class="year-5">2008-2009</h5> </div>
+        </div>
+		<div class="block-1"> 
+            <img class="body-img9" src="11.png"> 
+            <img class="body-img10" src="12.png"> 
+            <a>Watch the new season<br>on FOX and Disney+</a>
+			<p>Maggle joins the mob. Bart saves a goat from satanist,
+				<br>and Homer and Marge are more naked and afaid than
+				<br>you’ve ever seen them.</p>
+			<button name="button" class="body-button3"><a class="a">Watch now</a></button>
+			<button name="button" class="body-button4"><a class="a">Trailer</a></button>
+		</div>
+		<div class="block-2"> <a>About the Show</a>
+			<p>The beloved animated series focuses on the
+				<br> eponymous family in the town of Springfield in an
+				<br>unnamed U.S. state. The head of the Simpson family.
+				<br> Homer, is not a typical family man. A nuclearplant
+				<br>employee, he does his best to lead his family but often
+				<br>finds that they are leading him.
+				<br>
+				<br>The family includes loving, blue-haired matriarch
+				<br>Marge, troublemaking son Bart, overachieving
+				<br> daughter Lisa and baby Maggie.
+				<br>
+				<br> Other Springfield residents include the family’s religious
+				<br>neighbor, Ned Flanders, family physician Dr. Hibbert,
+				<br> Moe the bartender and police chief Clancy Wiggum.</p>
+			<div class="circle"> <a>Interesting<br>fact #1</a>
+				<p>It takes between six
+					<br>to eight months to
+					<br> create each
+					<br>episode.</p>
+			</div>
+			<div class="ellipse"></div> <img class="body-img11" src="13.png"> </div>
+		<div class="block-3">
+			<h2 class="body-3"> Meet the Characters</h2>
+			<button name="button" class="body-button5"><a class="a">See all charactes</a></button>
+			<div class="circle1"> <img class="body-img12" src="14.png"> <a>Homer Simpson</a> </div>
+			<div class="circle2"> <img class="body-img13" src="15.png"> <a>Marge Simpson</a> </div>
+			<div class="circle3"> <img class="body-img14" src="16.png"> <a>Bart Simpson</a> </div>
+			<div class="circle4"> <img class="body-img15" src="17.png"> <a> Lisa Simpson</a> </div>
+			<div class="circle5"> <img class="body-img16" src="18.png"> <a>Maggie Simpson</a> </div>
+		</div>
+		<div class="block-4">
+			<h2>Merchandise</h2>
+			<button name="button" class="body-button6"><a class="a">Other products</a></button>
+			<h4>‘The Simpsons’x adidas Originals Superstar “monoLIZA”</h4>
+			<p>Continuing its partnership with Matt Groening’s The
+				<br>Simpsons, adidas is now readying the release of the
+				<br> adidas Originals Superstar “monoLIZA”.
+				<br>
+				<br> Modeled after monoLIZA, the Simpsons family’s second
+				<br>cat, the classic lifestyle silhouette has be reimaged to
+				<br>express the black feline’s signature look. The shoe
+				<br>features a tonal black furry upper accented by 3D green
+				<br> eyes, embroidered pink noses, whiskers and mouths.
+				<br> Finishing up the design of the shoe are cat ears, tails at
+				<br>the heel tab and matching black sole units.</p>
+			<div class="circle7"> <a>Interesting<br>fact #2</a>
+				<p>Snowball V is the
+					<br>Simpsons’ fifth cat
+					<br>who looks exacly
+					<br>the same as
+					<br>Snowball II </p>
+			</div> <img class="body-img17" src="19.png">
+			<div class="ellipse2"></div> <img class="body-img18" src="20.png">
+			<button name="button" class="body-button7"><a class="a">Buy now</a></button>
+		</div>
+		<div class="block-5">
+			<h2>New episodes</h2>
+			<div class="new-episodes1"> 
+                <img class="body-img1" src="24.png"> 
+                <img class="body-img2" src="25.png"> 
+                <img class="body-img3" src="23.png"> 
+            </div>
+			<div class="name-episodes1">
+				<h5 class="name4">ComicBook.com</h5>
+				<h4 class="name5">The Simpsons Showrunner 
+            <br> Reveals the Prediction That Most 
+            <br> Shocked Him</h4> <a class="name6">Over the course of more than three
+            <br>decades, The Simpsons has offered 
+            <br>audiences a number of absurd 
+            <br>scenarios...</a>
+				<h5 class="name7">Screen Rant</h5>
+				<h4 class="name8">The Simpsons Craracters Ranked
+            <br> From Least To Most Likely To 
+            <br> Win Squid Game</h4> <a class="name9">Fans have seen The Simpsons 
+            <br>characters wind up in all kinds of 
+            <br>crazy and dangerous situations, but 
+            <br>which...</a>
+				<h5 class="name10">New York Post</h5>
+				<h4 class="name11">Fans claim ‘The Simpsons’ 
+                <br>predicted Astroworld tragedy</h4> <a class="name12">Fans of “The Simpsons” have pointed out yet another instance of the 
+                <br>notoriously prophetic show
+                <br> apparently predicting...</a> </div>
+			<div class="new-episodes2"> 
+                <img class="body-img1" src="22.png"> 
+                <img class="body-img2" src="26.png"> 
+                <img class="body-img3" src="21.png"> 
+            </div>
+			<div class="name-episodes2">
+				<h5 class="name13">CNN</h5>
+				<h4 class="name14">Waylon Smithers finaly finds <br>
+                    love in ‘The Simpsons’</h4> <a class="name15">Waylon Smithers Jr, the loyal 
+                    <br>assistant to cantankerous bilionaire 
+                    <br>Montgomery Burns, will finally find 
+                    <br>love in ...</a>
+				<h5 class="name16">Entertaiment Weekly</h5>
+				<h4 class="name17">Watch Smithers meet his new <br>
+                     boyfriend, played by Victor <br>
+                     Garber, on The Simpsons </h4> <a class="name18">“He loves that Smithers isn’t using <br>
+                    him to get ahead in the fashion<br>
+                     world,” hints exec producer Matt <br>
+                     Selman.</a>
+				<h5 class="name19">Variety</h5>
+				<h4 class="name20">How ‘The Simpsons’ Convinced<br>
+                    Disney to Let Goofy and Homer <br>
+                    Drink a Beer</h4> <a class="name21">‘The Simpsons in Plusaversary’ is the <br>
+                     latest from the busy ‘Simpsons’ team. <br>
+                     Next up: A Spanish-language short...</a> </div>
+		</div>
+        <div class="block-6">
+            <h2>Welcome to The Simpsons world</h2>
+            <h4>Write your e-mail to follow all news and new series of The Simpsons</h4>
+            <img src="27.png"> 
+            <input maxlength="255" size="25" placeholder="Your e-mail">
+            <button name="button"><a class="a">Subscribe</a></button>
+        </div>
+    <div class="block-7">
+        <img src="28.png">
+        <h2>The Simpsons: Tapped Out</h2>
+        <h4>Homer accidently caused a meltdown that wiped out<br>
+             Springfield. D’OH! Now, is’s up to you to rebuid it! From the <br>
+             writers of The Simpsons, tap into a city building game that lets<br>
+             you creat your own living, breathing Springfield... for FREE.</h4>
+             
+             <button name="button" class="apple">
+                 <img src="apple.png" class="apple1">
+                 <a class="apple2">Dowloand on the</a>
+                 <b class="apple3">App Store</b>
+            </button>
+             <button name="button" class="google">
+                 <img src="google-play.png" class="google1">
+                 <a class="google2">GET IN ON</a>
+                 <b class="google3">Google Play</b>
+            </button>
+             <button name="button" class="amazon">
+                 <img src="amazon.png" class="amazon1">
+                 <a class="amazon2">available at</a>
+                 <b class="amazon3">appstore</b>
+            </button>
+        </div>
+        <div class="footer">
+            <img src="logo.png" class="logo-footer">
+            <a href="#" class="menu-about">About</a> 
+            <a href="#" class="menu-characters">Characters</a> 
+            <a href="#" class="menu-episodes">Episodes</a> 
+            <a href="#" class="menu-wiki">Wiki</a> 
+            <input type="search" placeholder="   Search" class=""> 
+            <a href="#"><img src="instagram.png" class="inst"></a>
+            <a href="#"><img src="facebook.png" class="face"></a>
+            <a href="#"><img src="twitter.png" class="twit"></a>
+            <img src="29.png" class="footer-img">
+            <h4>Trademark & Copyright Notice: and 2021<br>
+                Fox Media LLC. All rights reserved.</h4>
+        </div>
+</body>
+
+</html>
